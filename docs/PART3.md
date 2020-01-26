@@ -8,7 +8,7 @@ The part 3 demonstrates how to create and register a SharePoint webhook to catch
 
 1. Install Azure Function Core tools globaly using `npm i -g azure-functions-core-tools@2.7.1149` (version 2).
 
-1. Install `npm i -g ngork` and type the following command in a new console: `ngrok http 7071`. This way SharePoint will be able to reply to your local function via the ngrok proxy. Let the console run and go to the next step:
+1. Install `npm i -g ngrok` and type the following command in a new console: `ngrok http 7071`. This way SharePoint will be able to reply to your local function via the ngrok proxy. Let the console run and go to the next step:
 
     ![Ngrok](../images/ngrok.png)
 
