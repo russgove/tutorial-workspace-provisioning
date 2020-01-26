@@ -12,7 +12,7 @@ The part 3 demonstrates how to create and register a SharePoint webhook to catch
 
     ![Ngrok](../images/ngrok.png)
 
-1. In the Azure storage account you created in the previous step, create a new table named '**WebhookStateTable**'. As its name suppose, this will used to 
+1. In the Azure storage account you created in the previous step, create a new table named '**WebhookStateTable**'. As its name suppose, this will used to store the state of the Webhook.
 
     ![Webhook state stable](../images/webhook_statetable.png)
 
